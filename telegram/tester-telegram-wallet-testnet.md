@@ -2,7 +2,7 @@
 
 [EN](./tester-telegram-wallet-testnet.md) | [IT](./tester-telegram-wallet-testnet_it.md)
 
-Test the BitSong Telegram Wallet [TODO: link], discover bugs, open issues, suggest new features.
+Test the (BitSong Telegram Wallet)[https://t.me/bitsong_wallet_bot], discover bugs, open issues, suggest new features.
 
 **To try**
 The goal is to actively test all the various functions, such as Wallet, Staking, Governance, IBC ...
@@ -10,7 +10,7 @@ Candidates must be active and have regular and daily use. It is also necessary t
 
 ## Qualification
 
-- Create or import an account via the bot [TODO: link]
+- Create or import an account via the bot https://t.me/bitsong_wallet_bot
 - Do not delete the account from the bot until the contest is completed
 - Try all available functions
 - Open issue on github for new suggestions
